@@ -1,11 +1,17 @@
-### Potato Boi 
+### About Me! 
 
-Hi, I'm Potato.
-Just a normal dev who writes in Python, NodeJS, Vanilla and HTML.
+Hey, I'm AwesomePotatoCodes!
+I like to develop things in:
+- Python
+- NodeJS
+- HTML
+- CSS
+- Vanilla JS
+- C#
 
-Here are my stats
+[Replit ⠕](https://replit.com/@AwesomePotatoLXS)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomepotatocodes&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[StackBlitz ⚡](https://stackblitz.com/@AwesomePotatoCodes)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AwesomePotatoCodes&theme=vue)](https://git.io/streak-stats)
 
